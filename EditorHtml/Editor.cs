@@ -3,7 +3,7 @@ using System.Text;
 
 namespace EditorHtml
 {
-    public static class Editor
+    public class Editor
     {
         public static void Show()
         {
@@ -11,10 +11,11 @@ namespace EditorHtml
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Clear();
-            Console.WriteLine("EDITOR MODE");
-            Console.WriteLine("--------------");
+            Console.WriteLine("MODO EDITOR");
+            Console.WriteLine("----------------------------------------");
             Start();
         }
+
         public static void Start()
         {
             var file = new StringBuilder();
@@ -23,12 +24,11 @@ namespace EditorHtml
             {
                 file.Append(Console.ReadLine());
                 file.Append(Environment.NewLine);
-            } while (Console.ReadKey().Key != ConsoleKey.Escape);
-
-
-            Console.WriteLine("--------------");
-            Console.WriteLine("Do you want to save your file?");
+            }
+            while (Console.ReadKey().Key != ConsoleKey.Escape);
+            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("Deseja salvar este arquivo?");
+            Viewer.Show(file.ToString());
         }
-
     }
 }
