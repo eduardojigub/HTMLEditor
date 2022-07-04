@@ -1,0 +1,16 @@
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\bin\Debug\net5.0\EditorHtml.exe
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\bin\Debug\net5.0\EditorHtml.deps.json
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\bin\Debug\net5.0\EditorHtml.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\bin\Debug\net5.0\ref\EditorHtml.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\bin\Debug\net5.0\EditorHtml.pdb
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.AssemblyReference.cache
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfo.cs
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\obj\Debug\net5.0\EditorHtml.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\obj\Debug\net5.0\ref\EditorHtml.dll
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\obj\Debug\net5.0\EditorHtml.pdb
+C:\Users\eduardo.guimaraes\Desktop\Projects\HTMLEditor\EditorHtml\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache
