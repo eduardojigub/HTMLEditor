@@ -11,9 +11,13 @@ namespace EditorHtml
             Console.ForegroundColor = ConsoleColor.Black;
 
             DrawScreen();
+            WriteOptions();
+
+            var option = short.Parse(Console.ReadLine());
         }
 
         public static void DrawScreen()
+
         {
             Console.Write("+");
             for (int i = 0; i <= 30; i++)
@@ -35,6 +39,25 @@ namespace EditorHtml
                 Console.Write("-");
             Console.Write("+");
             Console.Write("\n");
+
+        }
+
+        public static void WriteOptions()
+        {
+            Console.SetCursorPosition(3, 2);
+            Console.WriteLine("HTML Editor");
+            Console.SetCursorPosition(3, 3);
+            Console.WriteLine("============");
+            Console.SetCursorPosition(3, 4);
+            Console.WriteLine("Select an option below:");
+            Console.SetCursorPosition(3, 6);
+            Console.WriteLine("1 - New File");
+            Console.SetCursorPosition(3, 7);
+            Console.WriteLine("2 - Open File");
+            Console.SetCursorPosition(3, 9);
+            Console.WriteLine("0 - Leave");
+            Console.SetCursorPosition(3, 10);
+            Console.Write("Option:");
 
         }
     }
